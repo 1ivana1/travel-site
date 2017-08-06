@@ -960,6 +960,7 @@ a {
         z-index: 10;
         top: 10px;
         right: 10px;
+        
     }
 .site-header__menu-icon::before {
             content: "";
@@ -1006,6 +1007,7 @@ a {
 @media (min-width: 800px) {
 .site-header__menu-icon {
             display: none
+        
     }
 	}
 .site-header__menu-icon--close-x::before {

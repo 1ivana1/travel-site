@@ -59,6 +59,7 @@
         z-index: 10;
         top: 10px;
         right: 10px;
+        
     }
     
     .site-header__menu-icon::before {
@@ -110,6 +111,7 @@
     
     .site-header__menu-icon {
             display: none
+        
     }
 	}
     
