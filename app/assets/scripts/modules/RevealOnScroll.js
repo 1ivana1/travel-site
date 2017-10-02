@@ -9,9 +9,7 @@ class RevealOnScroll {
         this.hideInitialy();
         this.createWaypoints();
     }
-    
-    
-    
+      
     
     hideInitialy() {
         this.itemsToReveal.addClass("reveal-item");

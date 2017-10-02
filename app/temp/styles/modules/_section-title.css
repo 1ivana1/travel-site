@@ -18,6 +18,10 @@
         color: #2F5572;
     }
     
+    .section-title--less-margin {
+        margin-bottom: 1.3rem;
+    }
+    
     .section-title__icon {        
         display: block;
         margin-left: auto;
